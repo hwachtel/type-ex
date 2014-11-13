@@ -1,7 +1,31 @@
 /* Your Website Styles */
+body{
+	font-family:;
+	background: url("../img/footer_lodyas/footer_lodyas.png");
+}
+
+
+h1,h2,h3{
+	font-family:'Changa One';
+}
+
+h1{
+	
+	color:#00FD3D;
+	font-size:7em;
+}
+
+h2{
+	color:#005BFD;
+}
+
+h3{
+	color:#FD0000;
+}
+
+p{
+	color:white;
+}
 
 
 /* Show Grid */
-.showgrid {
-	background: url("../img/grid-bg.png") repeat-y;
-}
